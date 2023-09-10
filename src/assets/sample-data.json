@@ -1,0 +1,502 @@
+[
+  {
+    "productName": "Lettuce - Red Leaf",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 6.35,
+    "quantity": 995,
+    "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
+    "category": "household",
+    "manufacturer": "Kuhic Group",
+    "isAvailable": false
+  },
+  {
+    "productName": "Lettuce - Romaine",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 68.24,
+    "quantity": 592,
+    "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+    "category": "household",
+    "manufacturer": "Olson-Hodkiewicz",
+    "isAvailable": true
+  },
+  {
+    "productName": "Wine - White, Schroder And Schyl",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 19.54,
+    "quantity": 536,
+    "description": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+    "category": "food",
+    "manufacturer": "Padberg-Hansen",
+    "isAvailable": true
+  },
+  {
+    "productName": "Chicken - Leg, Fresh",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 42.66,
+    "quantity": 80,
+    "description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+    "category": "food",
+    "manufacturer": "Lubowitz Group",
+    "isAvailable": true
+  },
+  {
+    "productName": "Wine - Touraine Azay - Le - Rideau",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 8.02,
+    "quantity": 296,
+    "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
+    "category": "beverages",
+    "manufacturer": "Cormier and Sons",
+    "isAvailable": false
+  },
+  {
+    "productName": "Chinese Foods - Chicken Wing",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 99.52,
+    "quantity": 461,
+    "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+    "category": "beverages",
+    "manufacturer": "Berge Group",
+    "isAvailable": false
+  },
+  {
+    "productName": "Marjoram - Dried, Rubbed",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 54.8,
+    "quantity": 901,
+    "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+    "category": "food",
+    "manufacturer": "Wehner-Fahey",
+    "isAvailable": false
+  },
+  {
+    "productName": "Mushroom - Porcini Frozen",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 82.44,
+    "quantity": 414,
+    "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+    "category": "household",
+    "manufacturer": "Wunsch and Sons",
+    "isAvailable": true
+  },
+  {
+    "productName": "Chinese Lemon Pork",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 77.81,
+    "quantity": 271,
+    "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+    "category": "beverages",
+    "manufacturer": "Hoppe Inc",
+    "isAvailable": true
+  },
+  {
+    "productName": "Wine - Rosso Toscano Igt",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 95.95,
+    "quantity": 91,
+    "description": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+    "category": "food",
+    "manufacturer": "Jacobs, Reinger and Abshire",
+    "isAvailable": true
+  },
+  {
+    "productName": "Pasta - Agnolotti - Butternut",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 94.19,
+    "quantity": 228,
+    "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
+    "category": "food",
+    "manufacturer": "Yost-Jones",
+    "isAvailable": true
+  },
+  {
+    "productName": "Pork - Tenderloin, Frozen",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 64.91,
+    "quantity": 945,
+    "description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+    "category": "personal care",
+    "manufacturer": "Turcotte-Hegmann",
+    "isAvailable": false
+  },
+  {
+    "productName": "Eggplant Italian",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 14.86,
+    "quantity": 457,
+    "description": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+    "category": "personal care",
+    "manufacturer": "Roberts-Goodwin",
+    "isAvailable": false
+  },
+  {
+    "productName": "Mustard - Seed",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 43.05,
+    "quantity": 362,
+    "description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
+    "category": "household",
+    "manufacturer": "Schulist LLC",
+    "isAvailable": true
+  },
+  {
+    "productName": "Lotus Root",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 15.98,
+    "quantity": 967,
+    "description": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+    "category": "household",
+    "manufacturer": "Considine, Langworth and Schiller",
+    "isAvailable": false
+  },
+  {
+    "productName": "Anchovy Paste - 56 G Tube",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 49.02,
+    "quantity": 281,
+    "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "category": "household",
+    "manufacturer": "O'Connell-Buckridge",
+    "isAvailable": false
+  },
+  {
+    "productName": "Croissants Thaw And Serve",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 82.69,
+    "quantity": 450,
+    "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+    "category": "food",
+    "manufacturer": "Metz-Kreiger",
+    "isAvailable": true
+  },
+  {
+    "productName": "Nectarines",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 24.47,
+    "quantity": 525,
+    "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+    "category": "personal care",
+    "manufacturer": "Jacobi and Sons",
+    "isAvailable": true
+  },
+  {
+    "productName": "Mahi Mahi",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 24.61,
+    "quantity": 733,
+    "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+    "category": "food",
+    "manufacturer": "Grimes, Botsford and Zboncak",
+    "isAvailable": false
+  },
+  {
+    "productName": "Cornstarch",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 26.55,
+    "quantity": 35,
+    "description": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+    "category": "beverages",
+    "manufacturer": "Weber-Brown",
+    "isAvailable": false
+  },
+  {
+    "productName": "Tomatoes - Yellow Hot House",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 26.46,
+    "quantity": 833,
+    "description": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+    "category": "household",
+    "manufacturer": "Jones, Ritchie and Jenkins",
+    "isAvailable": true
+  },
+  {
+    "productName": "Basil - Fresh",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 41.84,
+    "quantity": 685,
+    "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+    "category": "beverages",
+    "manufacturer": "Hahn Group",
+    "isAvailable": false
+  },
+  {
+    "productName": "Veal - Knuckle",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 15.05,
+    "quantity": 944,
+    "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
+    "category": "beverages",
+    "manufacturer": "Larkin-Bernhard",
+    "isAvailable": true
+  },
+  {
+    "productName": "Wine - Niagara Peninsula Vqa",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 62.67,
+    "quantity": 865,
+    "description": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+    "category": "personal care",
+    "manufacturer": "Effertz Group",
+    "isAvailable": false
+  },
+  {
+    "productName": "Red Snapper - Fresh, Whole",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 65.63,
+    "quantity": 691,
+    "description": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
+    "category": "food",
+    "manufacturer": "Swaniawski Inc",
+    "isAvailable": true
+  },
+  {
+    "productName": "Orange Roughy 4/6 Oz",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 36.29,
+    "quantity": 543,
+    "description": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+    "category": "beverages",
+    "manufacturer": "Hackett, Goodwin and Morar",
+    "isAvailable": true
+  },
+  {
+    "productName": "Clams - Bay",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 35.28,
+    "quantity": 404,
+    "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "category": "personal care",
+    "manufacturer": "Kihn-Homenick",
+    "isAvailable": false
+  },
+  {
+    "productName": "Ham - Cooked Bayonne Tinned",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 56.27,
+    "quantity": 615,
+    "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+    "category": "household",
+    "manufacturer": "Schulist-Bartell",
+    "isAvailable": false
+  },
+  {
+    "productName": "Squid - U 5",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 9.89,
+    "quantity": 917,
+    "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+    "category": "beverages",
+    "manufacturer": "Batz-Jast",
+    "isAvailable": false
+  },
+  {
+    "productName": "Apples - Spartan",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 11.25,
+    "quantity": 399,
+    "description": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+    "category": "food",
+    "manufacturer": "Luettgen, Pollich and Carroll",
+    "isAvailable": false
+  },
+  {
+    "productName": "Apple - Granny Smith",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 72.9,
+    "quantity": 255,
+    "description": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+    "category": "household",
+    "manufacturer": "Kutch-Waters",
+    "isAvailable": false
+  },
+  {
+    "productName": "Rice - Aborio",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 40.7,
+    "quantity": 286,
+    "description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+    "category": "beverages",
+    "manufacturer": "Kulas-Fisher",
+    "isAvailable": false
+  },
+  {
+    "productName": "Mushroom - Shitake, Fresh",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 61.88,
+    "quantity": 767,
+    "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "category": "household",
+    "manufacturer": "Crona Group",
+    "isAvailable": true
+  },
+  {
+    "productName": "Wine - Touraine Azay - Le - Rideau",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 55.35,
+    "quantity": 177,
+    "description": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+    "category": "personal care",
+    "manufacturer": "Hammes LLC",
+    "isAvailable": true
+  },
+  {
+    "productName": "Shrimp - 21/25, Peel And Deviened",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 97.56,
+    "quantity": 452,
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",
+    "category": "beverages",
+    "manufacturer": "Fahey LLC",
+    "isAvailable": false
+  },
+  {
+    "productName": "Cheese - Grana Padano",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 41.05,
+    "quantity": 625,
+    "description": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+    "category": "beverages",
+    "manufacturer": "MacGyver, Waelchi and Dickinson",
+    "isAvailable": true
+  },
+  {
+    "productName": "Duck - Breast",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 12.28,
+    "quantity": 548,
+    "description": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+    "category": "personal care",
+    "manufacturer": "Will LLC",
+    "isAvailable": false
+  },
+  {
+    "productName": "Cranberries - Frozen",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 90.81,
+    "quantity": 601,
+    "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
+    "category": "personal care",
+    "manufacturer": "Greenfelder-Kub",
+    "isAvailable": true
+  },
+  {
+    "productName": "Pastry - Apple Large",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 63.12,
+    "quantity": 580,
+    "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+    "category": "beverages",
+    "manufacturer": "Gerhold-Jast",
+    "isAvailable": false
+  },
+  {
+    "productName": "Amaretto",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 19.96,
+    "quantity": 94,
+    "description": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+    "category": "beverages",
+    "manufacturer": "Beier-White",
+    "isAvailable": false
+  },
+  {
+    "productName": "Mix - Cocktail Ice Cream",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 76.74,
+    "quantity": 603,
+    "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
+    "category": "food",
+    "manufacturer": "Fisher and Sons",
+    "isAvailable": true
+  },
+  {
+    "productName": "Pasta - Spaghetti, Dry",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 88.28,
+    "quantity": 499,
+    "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+    "category": "food",
+    "manufacturer": "Haag-Strosin",
+    "isAvailable": true
+  },
+  {
+    "productName": "Container - Clear 32 Oz",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 15.37,
+    "quantity": 585,
+    "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+    "category": "food",
+    "manufacturer": "Strosin, Hickle and Schultz",
+    "isAvailable": false
+  },
+  {
+    "productName": "Pork - Tenderloin, Fresh",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 52.59,
+    "quantity": 910,
+    "description": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+    "category": "beverages",
+    "manufacturer": "Haag, Donnelly and MacGyver",
+    "isAvailable": false
+  },
+  {
+    "productName": "Turkey - Breast, Bone - In",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 7.67,
+    "quantity": 110,
+    "description": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
+    "category": "household",
+    "manufacturer": "Schuppe, Wisoky and Olson",
+    "isAvailable": true
+  },
+  {
+    "productName": "Wine - Periguita Fonseca",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 69.81,
+    "quantity": 627,
+    "description": "Sed ante. Vivamus tortor. Duis mattis egestas metus.",
+    "category": "food",
+    "manufacturer": "Swaniawski, Bahringer and Zieme",
+    "isAvailable": true
+  },
+  {
+    "productName": "Vegetable - Base",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 57.91,
+    "quantity": 382,
+    "description": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+    "category": "household",
+    "manufacturer": "Walsh and Sons",
+    "isAvailable": false
+  },
+  {
+    "productName": "Pork - Belly Fresh",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 37.23,
+    "quantity": 418,
+    "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+    "category": "household",
+    "manufacturer": "VonRueden, Reilly and Walsh",
+    "isAvailable": true
+  },
+  {
+    "productName": "Lettuce - Treviso",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 30.5,
+    "quantity": 806,
+    "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+    "category": "household",
+    "manufacturer": "Casper-Oberbrunner",
+    "isAvailable": true
+  },
+  {
+    "productName": "Loaf Pan - 2 Lb, Foil",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 86.34,
+    "quantity": 917,
+    "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+    "category": "food",
+    "manufacturer": "Hamill-Jacobs",
+    "isAvailable": false
+  }
+]
